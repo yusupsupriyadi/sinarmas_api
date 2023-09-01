@@ -7,9 +7,6 @@ Dokumentasi ini menjelaskan penggunaan API RESTful sederhana untuk mengelola daf
 -   Laravel sudah terinstal di sistem Anda. Jika belum, Anda dapat mengikuti panduan instalasi di [Laravel Documentation](https://laravel.com/docs/).
 
 ## Penggunaan API
-
-### Menampilkan Daftar Tugas (GET /api/tasks)
-
 -   **Deskripsi**: Get list all data task.
 -   **Metode**: GET
 -   **URL**: `/api/tasks`
